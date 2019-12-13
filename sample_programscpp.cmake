@@ -4,6 +4,8 @@ cmake_minimum_required(VERSION 2.6)
 		       abstract abstractCpp.cpp
 		       advance advance.cpp
 		       auto auto.cpp
+		       break break.cpp
 	               digitsep digit_sep.cpp
                        beginend begin_end.cpp
-                       bool bool.cpp)
+                       bool bool.cpp
+		       callByRef call_by_ref.cpp)
