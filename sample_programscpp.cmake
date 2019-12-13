@@ -3,6 +3,7 @@ cmake_minimum_required(VERSION 2.6)
 	               arithmetic arithmetic.cpp
 		       abstract abstractCpp.cpp
 		       advance advance.cpp
+		       auto auto.cpp
 	               digitsep digit_sep.cpp
                        beginend begin_end.cpp
                        bool bool.cpp)
