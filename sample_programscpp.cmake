@@ -19,5 +19,6 @@ cmake_minimum_required(VERSION 2.6)
 		       forloop forloop.cpp
 		       friend friend.cpp
 		       funsover funsover.cpp
-		       funstemp funstemp.cpp)
+		       funstemp funstemp.cpp
+		       goto goto.cpp)
 		       
