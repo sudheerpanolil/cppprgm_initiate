@@ -11,4 +11,3 @@ int main() {
   cout << "Multiplication of a * b = " << (a * b) << endl;
   cout << "Division of a / b = " << (a / b) << endl;
 }
-© 2019 GitHub, Inc.
