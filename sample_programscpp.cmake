@@ -9,4 +9,15 @@ cmake_minimum_required(VERSION 2.6)
                        beginend begin_end.cpp
                        bool bool.cpp
 		       callByRef call_by_ref.cpp
-		       case case.cpp)
+		       case case.cpp
+		       classCpp classCpp.cpp
+		       continue continue.cpp
+		       constoverload constoverload.cpp
+		       destructor destructor.cpp
+		       enum enum.cpp
+		       extern extern.cpp
+		       forloop forloop.cpp
+		       friend friend.cpp
+		       funsover funsover.cpp
+		       funstemp funstemp.cpp)
+		       
